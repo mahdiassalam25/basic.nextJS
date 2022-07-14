@@ -1,0 +1,2 @@
+# basic.nextJS
+basic nextJS
